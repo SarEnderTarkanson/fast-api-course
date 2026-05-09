@@ -24,3 +24,8 @@ multiple
 line
 comments
 '''
+
+#An assignment
+
+money_left = 50 - 15 - (15*.03)
+print(money_left)

@@ -1,10 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="287a64b5-efb3-4f62-aa29-1c80e7ac46ae" name="Changes" comment="2 - 19 getting user input">
-      <change afterPath="$PROJECT_DIR$/../01-python-refresher/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../01-python-refresher/StringAssignment.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="287a64b5-efb3-4f62-aa29-1c80e7ac46ae" name="Changes" comment="2 - 20 string assignment">
+      <change beforePath="$PROJECT_DIR$/../01-python-refresher/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01-python-refresher/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01-python-refresher/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01-python-refresher/.idea/01-python-refresher.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01-python-refresher/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01-python-refresher/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01-python-refresher/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01-python-refresher/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01-python-refresher/Comments.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01-python-refresher/PythonBasics.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01-python-refresher/StringAssignment.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01-python-refresher/StringFormatting.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01-python-refresher/UserInput.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01-python-refresher/Variables.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01-python-refresher/lecture-one/lecture-one.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -134,7 +146,15 @@
       <option name="project" value="LOCAL" />
       <updated>1778286480212</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="2 - 20 string assignment">
+      <option name="closed" value="true" />
+      <created>1778459458259</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1778459458260</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -145,7 +165,8 @@
     <MESSAGE value="2 - 16 assignment" />
     <MESSAGE value="2 - 18 string formatting in python" />
     <MESSAGE value="2 - 19 getting user input" />
-    <option name="LAST_COMMIT_MESSAGE" value="2 - 19 getting user input" />
+    <MESSAGE value="2 - 20 string assignment" />
+    <option name="LAST_COMMIT_MESSAGE" value="2 - 20 string assignment" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

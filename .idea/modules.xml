@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/fast-api-course.iml" filepath="$PROJECT_DIR$/.idea/fast-api-course.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/fast-api-course@1.iml" filepath="$PROJECT_DIR$/.idea/fast-api-course@1.iml" />
     </modules>
   </component>
 </project>

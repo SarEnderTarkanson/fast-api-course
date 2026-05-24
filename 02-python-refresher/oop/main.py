@@ -1,9 +1,6 @@
 from Enemy import *
 
-enemy = Enemy()
-enemy.type_of_enemy = 'zombie'
+zombie = Enemy()
+zombie.type_of_enemy = "Zombie"
 
-
-print(f'{enemy.type_of_enemy}'
-      f' has {enemy.health_points} health points and '
-      f'{enemy.attack_damage} attack damage')
+print(zombie.attack())

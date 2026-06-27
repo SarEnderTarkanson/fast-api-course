@@ -1,0 +1,4 @@
+{
+  "python.defaultInterpreterPath": "${workspaceFolder}/fastapienv/Scripts/python.exe",
+  "python.terminal.activateEnvInActiveTerminal": true
+}

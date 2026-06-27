@@ -3,3 +3,6 @@ name = "fast-api-course"
 version = "0.1.0"
 requires-python = ">=3.12"
 dependencies = []
+
+[tool.pyrefly]
+python-interpreter-path = "03-fast-api/fastapienv/Scripts/python.exe"
